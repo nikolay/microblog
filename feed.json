@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Nikolay Kolev",
-	"icon": "https://micro.blog/nikolay/avatar.jpg",
+	"icon": "https://www.gravatar.com/avatar/872efa6f38c84c8ce289784b5221f360?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
 	"home_page_url": "https://nikolay.mu/",
 	"feed_url": "https://nikolay.mu/feed.json",
 	"items": [
@@ -11,7 +11,7 @@
 				"title": "Hello, world!",
 				"content_html": "<p>If you&rsquo;re wondering what the &ldquo;.mu&rdquo; at the end of my website&rsquo;s address means, I will explain it. &ldquo;Mu&rdquo; is a reference to the Greek letter &ldquo;µ,&rdquo; which also means &ldquo;micro.&rdquo; Since my website is a microblog, I thought it would be a fitting choice.</p>\n",
 				"content_text": "If you're wondering what the \".mu\" at the end of my website's address means, I will explain it. \"Mu\" is a reference to the Greek letter \"µ,\" which also means \"micro.\" Since my website is a microblog, I thought it would be a fitting choice.\n",
-				"date_published": "2023-09-29T18:46:59-07:00",
+				"date_published": "2023-09-29T17:46:59-08:00",
 				"url": "https://nikolay.mu/2023/09/29/hello-world.html"
 			}
 	]
